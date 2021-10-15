@@ -1,0 +1,8 @@
+main: me.hurricane.main.Main
+name: SilentDeath
+author: xHurricane
+version: 1.0
+api-version: 1.13
+
+commands:
+  SilentDeath:
